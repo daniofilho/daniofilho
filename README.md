@@ -13,7 +13,7 @@
 
 <hr />
 
-<div align="center">
+<div align="center" style="display: none;">
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniofilho)](https://github.com/daniofilho/github-readme-stats)
 
