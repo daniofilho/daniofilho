@@ -10,11 +10,3 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" />
 </div>
-
-<hr />
- 
-<div align="center">
- 
- ![Snake animation](https://github.com/daniofilho/daniofilho/blob/output/github-contribution-grid-snake.svg)
-
-</div>
